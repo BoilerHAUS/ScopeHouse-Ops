@@ -37,6 +37,7 @@ This repo supports the non-code work needed to turn ScopeHouse into a durable so
 ```text
 README.md
 /docs
+  /positioning.md
   /90-day-business-roadmap.md
   /operating-model.md
   /milestones.md
@@ -68,6 +69,7 @@ Use the app repo for:
 Use this repo for:
 
 - business roadmap
+- positioning
 - pricing and packaging
 - customer research
 - design partner management
