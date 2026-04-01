@@ -14,6 +14,7 @@ ScopeHouse is a renovation operating system for homeowners and renovation profes
 This repo supports the non-code work needed to turn ScopeHouse into a durable software business:
 
 - positioning
+- homepage messaging
 - validation
 - pricing
 - design partner pipeline
@@ -38,6 +39,7 @@ This repo supports the non-code work needed to turn ScopeHouse into a durable so
 README.md
 /docs
   /positioning.md
+  /homepage-message.md
   /90-day-business-roadmap.md
   /operating-model.md
   /milestones.md
@@ -50,6 +52,7 @@ README.md
 Current priority is to build the business foundation before MVP launch:
 
 - sharpen wedge and positioning
+- define homepage message
 - recruit design partners
 - validate willingness to pay
 - prepare founder-led onboarding
@@ -70,6 +73,7 @@ Use this repo for:
 
 - business roadmap
 - positioning
+- homepage message
 - pricing and packaging
 - customer research
 - design partner management
