@@ -15,6 +15,7 @@ This repo supports the non-code work needed to turn ScopeHouse into a durable so
 
 - positioning
 - homepage messaging
+- customer interviews
 - validation
 - pricing
 - design partner pipeline
@@ -40,6 +41,7 @@ README.md
 /docs
   /positioning.md
   /homepage-message.md
+  /customer-interview-script.md
   /90-day-business-roadmap.md
   /operating-model.md
   /milestones.md
@@ -53,6 +55,7 @@ Current priority is to build the business foundation before MVP launch:
 
 - sharpen wedge and positioning
 - define homepage message
+- run customer interviews
 - recruit design partners
 - validate willingness to pay
 - prepare founder-led onboarding
@@ -74,6 +77,7 @@ Use this repo for:
 - business roadmap
 - positioning
 - homepage message
+- customer interview script
 - pricing and packaging
 - customer research
 - design partner management
