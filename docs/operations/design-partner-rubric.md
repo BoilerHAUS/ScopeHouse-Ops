@@ -11,7 +11,7 @@ This rubric is meant to help with:
 - beta onboarding decisions
 - paid pilot and service offer targeting
 
-It should be used with `docs/customer-interview-script.md`.
+It should be used with `docs/product/customer-interview-script.md`.
 
 ## Core principle
 

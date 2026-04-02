@@ -11,7 +11,7 @@ This draft is for:
 - early demo page copy
 - first public messaging tests
 
-It follows the positioning in `docs/positioning.md`.
+It follows the positioning in `docs/product/positioning.md`.
 
 ## Recommended homepage direction
 

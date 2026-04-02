@@ -338,8 +338,8 @@ Use short, concrete actions:
 
 Use this tracker with:
 
-- `docs/customer-interview-script.md`
-- `docs/design-partner-rubric.md`
+- `docs/product/customer-interview-script.md`
+- `docs/operations/design-partner-rubric.md`
 
 The interview script collects the signals.
 The rubric scores the signals.
