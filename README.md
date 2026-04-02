@@ -41,17 +41,56 @@ This repo supports the non-code work needed to turn ScopeHouse into a durable so
 ```text
 README.md
 /docs
-  /positioning.md
-  /homepage-message.md
-  /customer-interview-script.md
-  /design-partner-rubric.md
-  /design-partner-tracker.md
-  /90-day-business-roadmap.md
-  /operating-model.md
-  /milestones.md
-  /backlog
-    /business-roadmap-issues.md
+  README.md
+  /product
+    founder-instructions.md
+    mvp-prd.md
+    positioning.md
+    homepage-message.md
+    pricing.md
+    customer-interview-script.md
+  /engineering
+    engineering-rules.md
+    repo-structure.md
+  /github
+    workflow.md
+    milestones.md
+    issue-map.md
+    pr-template-guide.md
+  /operations
+    business-stack.md
+    launch-checklist.md
+    beta-ops.md
+    beta-onboarding-checklist.md
+    design-partner-rubric.md
+    design-partner-tracker.md
+    discovery-call-script.md
+    demo-script.md
+    founder-led-service-offer.md
+    objection-handling.md
+    content-engine.md
+    content-topics.md
+    weekly-business-metrics-review.md
+    ontario-incorporation-guide.md
+  /adr
+    README.md
+    0001-docs-structure.md
+  /archive
+    README.md
 ```
+
+## Documentation
+
+The documentation hub lives in [`docs/README.md`](docs/README.md).
+
+Core docs:
+
+- [`docs/product/founder-instructions.md`](docs/product/founder-instructions.md)
+- [`docs/product/mvp-prd.md`](docs/product/mvp-prd.md)
+- [`docs/engineering/engineering-rules.md`](docs/engineering/engineering-rules.md)
+- [`docs/engineering/repo-structure.md`](docs/engineering/repo-structure.md)
+
+Use the docs index for the full map, doc ownership, and current source-of-truth files.
 
 ## Current focus
 
