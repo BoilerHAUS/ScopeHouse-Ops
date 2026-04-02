@@ -227,6 +227,10 @@ Deliverable:
 - initial email addresses list
 - domain and admin ownership checklist
 
+Current working address:
+
+- `scopehouse@boilerhaus.org`
+
 Done when:
 
 - business email is live
@@ -371,6 +375,10 @@ Done when:
 
 ## Full business readiness to do list
 
+Primary tracker:
+
+- private GitHub Project `BoilerHAUS / Full business readiness to do list`
+
 ## Phase 1, current testing phase
 
 Goal:
@@ -407,6 +415,7 @@ Keep testing ScopeHouse while reducing chaos.
 
 ## Phase 4, operating stack readiness
 
+- [x] create `scopehouse@boilerhaus.org`
 - [ ] choose business email provider
 - [ ] set up domain email and admin controls
 - [ ] define Nextcloud role in the stack

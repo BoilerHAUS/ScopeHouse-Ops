@@ -7,6 +7,8 @@ It holds the business, validation, launch, pricing, sales, content, and operatin
 The app repo stays focused on shipping software.
 This repo stays focused on building the business around it.
 
+Primary business email: `scopehouse@boilerhaus.org`
+
 ## Purpose
 
 ScopeHouse is a renovation operating system for homeowners and renovation professionals.

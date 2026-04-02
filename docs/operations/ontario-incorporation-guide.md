@@ -58,7 +58,8 @@ Best if speed matters more than branding on day one.
 - [ ] create or sign in to a My Ontario Account
 - [ ] create or sign in to an Ontario Business Account
 - [ ] if using a named corporation, order an Ontario-biased or weighted Nuans report
-- [ ] prepare a working email address and payment method
+- [x] prepare a working email address, `scopehouse@boilerhaus.org`
+- [ ] prepare a payment method
 - [ ] decide who the incorporator will be
 - [ ] decide the registered office address in Ontario
 - [ ] decide who the first directors will be
