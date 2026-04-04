@@ -155,6 +155,9 @@ Done when:
 Goal:
 Choose how Boilerhaus sends invoices, proposals, and service offers.
 
+Decision:
+Use Wave for invoicing.
+
 Research options:
 
 - Stripe invoicing only
@@ -175,6 +178,11 @@ Deliverable:
 - proposal workflow decision
 - first service invoice and proposal template plan
 
+Current choice:
+
+- invoicing system: Wave
+- proposal path: keep it lightweight alongside Wave until a stronger proposal workflow is needed
+
 Done when:
 
 - you know how money will be requested
@@ -185,6 +193,9 @@ Done when:
 
 Goal:
 Choose how Boilerhaus gets paid.
+
+Decision:
+Use Wave for current payment collection tied to invoices.
 
 Research questions:
 
@@ -198,6 +209,11 @@ Deliverable:
 - first payment collection workflow
 - refund and invoice handling notes
 
+Current choice:
+
+- payment processor for current invoiced work: Wave
+- revisit product subscription billing separately if ScopeHouse later needs a stronger recurring billing system
+
 Done when:
 
 - you can take money cleanly
@@ -208,6 +224,15 @@ Done when:
 
 Goal:
 Choose the business email and calendar setup.
+
+Current choice:
+
+- domain email provider: IONOS
+- public ScopeHouse address: `scopehouse@boilerhaus.org`
+- current working inbox: `chris@boilerhaus.org`
+- `scopehouse@boilerhaus.org` forwards to `chris@boilerhaus.org`
+- both `scopehouse@boilerhaus.org` and `chris@boilerhaus.org` forward to `128boilerrat@gmail.com`
+- `chris@boilerhaus.org` is the main operating inbox for the project right now
 
 Research options:
 
@@ -230,6 +255,7 @@ Deliverable:
 Current working address:
 
 - `scopehouse@boilerhaus.org`
+- `chris@boilerhaus.org`
 
 Done when:
 
@@ -406,8 +432,8 @@ Keep testing ScopeHouse while reducing chaos.
 - [ ] research each against the scorecard
 - [ ] choose accounting system
 - [ ] open business bank account once legal entity exists
-- [ ] choose invoicing and proposal path
-- [ ] choose payment collection path
+- [x] choose invoicing and proposal path, Wave
+- [x] choose payment collection path, Wave
 - [ ] create first invoice template
 - [ ] create first proposal or service offer template
 - [ ] define monthly bookkeeping routine
@@ -416,7 +442,7 @@ Keep testing ScopeHouse while reducing chaos.
 ## Phase 4, operating stack readiness
 
 - [x] create `scopehouse@boilerhaus.org`
-- [ ] choose business email provider
+- [x] choose business email provider, IONOS
 - [ ] set up domain email and admin controls
 - [ ] define Nextcloud role in the stack
 - [ ] create Nextcloud folder structure for legal, finance, ops, and customer work

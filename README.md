@@ -7,7 +7,8 @@ It holds the business, validation, launch, pricing, sales, content, and operatin
 The app repo stays focused on shipping software.
 This repo stays focused on building the business around it.
 
-Primary business email: `scopehouse@boilerhaus.org`
+Primary public business email: `scopehouse@boilerhaus.org`
+Current working inbox: `chris@boilerhaus.org`
 
 ## Purpose
 
